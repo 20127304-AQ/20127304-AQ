@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Quoc
+- 🌱 I’m currently learning Computer Science.
+- 📫 How to reach me: tranquanganquoc@gmail.com
